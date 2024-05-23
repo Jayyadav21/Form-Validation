@@ -53,6 +53,7 @@ function showSuccess(input){
         }
       }
 
+      
       // Check passwords match
       function checkPasswordsMatch(input1, input2){
             if(input1.value !== input2.value){
